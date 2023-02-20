@@ -1,4 +1,4 @@
-## Eating Gluten-Free with Scleloderma
+# Eating Gluten-Free with Scleloderma
 https://national.scleroderma.org/site/DocServer/Gluten_Free_Article.pdf?docID=16531
 
 # Patient Story
