@@ -30,6 +30,8 @@ Bredesen, Mosconi, and Sherzai agree: fill most of your plate with plants.
 
 - Leafy greens (spinach, kale, arugula)
 
+- Cruciferous vegetables (cauliflower, kale, brocolli, brussel sprouts)
+ 
 - Colorful vegetables
 
 - Berries (especially blueberries)
