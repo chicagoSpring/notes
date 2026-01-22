@@ -40,6 +40,7 @@ Bredesen, Mosconi, and Sherzai agree: fill most of your plate with plants.
 
 **Fruits (in moderation):**
 - Prefer low-glycemic fruit: berries, tart cherries, grapefruit, lemons/limes.
+- 
 - Or other fruits around workouts.
 
 **Protein:**
@@ -93,6 +94,7 @@ Bredesen, Mosconi, and Sherzai agree: fill most of your plate with plants.
  
 
 **High Fat vs. Low Fat:** 
+
 - There seems to be a lot of good evidence for a near-vegan, low-fat, plant-forward diet.  There is also a lot of good evidence for a high-fat, low-carb diet.  One thing these share in common is avoidance of empty carbs, processed foods, unhealthy fats and oils, etc.
 
  
