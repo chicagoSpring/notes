@@ -33,9 +33,7 @@ Bredesen, Mosconi, and Sherzai agree: fill most of your plate with plants.
 - Cruciferous vegetables (cauliflower, kale, brocolli, brussel sprouts)
  
 - Colorful vegetables
-
-- Berries (especially blueberries)
-
+- 
 - Beans and legumes
 
 - Nuts (walnuts, almonds, macadamia, pecans)
@@ -44,8 +42,10 @@ Bredesen, Mosconi, and Sherzai agree: fill most of your plate with plants.
 
 - Avocado
 
- 
-
+**Fruits (in moderation):**
+- Prefer low-glycemic fruit: berries, tart cherries, grapefruit, lemons/limes.
+- Or other fruits around workouts.
+- 
 **Protein**
 
 - Wild-caught fish 2-3x/week
