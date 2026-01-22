@@ -14,9 +14,6 @@
 
  
 
----
-
- 
 
 **The consensus: Eat a plant-forward diet.**
 
@@ -44,7 +41,7 @@ Bredesen, Mosconi, and Sherzai agree: fill most of your plate with plants.
 **Fruits (in moderation):**
 - Prefer low-glycemic fruit: berries, tart cherries, grapefruit, lemons/limes.
 - Or other fruits around workouts.
-- 
+
 **Protein:**
 
 - Wild-caught fish 2-3x/week.  e.g. sardines.
@@ -53,7 +50,7 @@ Bredesen, Mosconi, and Sherzai agree: fill most of your plate with plants.
 
 - Other meats in moderation.
 
- 
+
 
 **Debated:**
 
