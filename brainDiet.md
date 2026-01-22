@@ -45,7 +45,7 @@ Bredesen, Mosconi, and Sherzai agree: fill most of your plate with plants.
 - Prefer low-glycemic fruit: berries, tart cherries, grapefruit, lemons/limes.
 - Or other fruits around workouts.
 - 
-**Protein**
+**Protein:**
 
 - Wild-caught fish 2-3x/week.  e.g. sardines.
 
@@ -55,7 +55,7 @@ Bredesen, Mosconi, and Sherzai agree: fill most of your plate with plants.
 
  
 
-**Debated**
+**Debated:**
 
 - *Whole grains:* Mosconi and Sherzai say they're fine; Bredesen and Means say avoid entirely (low grade inflammation).
 
@@ -95,7 +95,8 @@ Bredesen, Mosconi, and Sherzai agree: fill most of your plate with plants.
 
  
 
-**High Fat vs. Low Fat** - There seems to be a lot of good evidence for a near-vegan, low-fat, plant-forward diet.  There is also a lot of good evidence for a high-fat, low-carb diet.  One thing these share in common is avoidance of empty carbs, processed foods, unhealthy fats and oils, etc.
+**High Fat vs. Low Fat:** 
+- There seems to be a lot of good evidence for a near-vegan, low-fat, plant-forward diet.  There is also a lot of good evidence for a high-fat, low-carb diet.  One thing these share in common is avoidance of empty carbs, processed foods, unhealthy fats and oils, etc.
 
  
 
