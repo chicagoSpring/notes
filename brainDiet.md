@@ -33,7 +33,6 @@ Bredesen, Mosconi, and Sherzai agree: fill most of your plate with plants.
 - Cruciferous vegetables (cauliflower, kale, brocolli, brussel sprouts)
  
 - Colorful vegetables
-- 
 - Beans and legumes
 
 - Nuts (walnuts, almonds, macadamia, pecans)
@@ -48,9 +47,7 @@ Bredesen, Mosconi, and Sherzai agree: fill most of your plate with plants.
 - 
 **Protein**
 
-- Wild-caught fish 2-3x/week
-
-  - Sardines
+- Wild-caught fish 2-3x/week.  e.g. sardines.
 
 - Pasture-raised eggs
 
